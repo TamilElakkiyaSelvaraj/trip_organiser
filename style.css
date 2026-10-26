@@ -312,6 +312,15 @@
     .trip-card img {
         height: 220px;
     }
+    .information__main{
+            grid-template-columns: 1fr;
+    }
+    .main__img {
+    border: none;
+}
+.main__img1 {
+    width: 100%;
+}
         .footer {
         padding: 35px 6% 20px;
     }
